@@ -4,4 +4,6 @@ hello atguigu! hello git
  ppppp
  yyp
 hot fix
-/usr/bin/bash: q: command not found
+hot fix test  hot fix
+/usr/bin/bash: q: comman
+d not found
