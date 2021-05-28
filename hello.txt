@@ -1,0 +1,6 @@
+
+hello atguigu! hello git
+ pppppp
+ ppppp
+ yyp
+/usr/bin/bash: q: command not found
